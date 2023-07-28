@@ -1,0 +1,704 @@
+[
+    {
+       "id": 1,
+       "img": "https://i.postimg.cc/15q8RQ1Z/organic-food-goji-berry-dried-fruit-health-goji-berries-12dca24373657f7deaffc77ca115f6a4.png",
+       "name": "Goji Berry",
+       "price": 170,
+       "category": "Dry Fruits",
+       "rating": 4.5,
+       "others": "popular",
+       "des": "Goji Berry is a nutritious and delicious dried fruit known for its health benefits. It is rich in antioxidants, vitamins, and minerals, making it a popular choice among health-conscious consumers."
+    },
+    {
+       "id": 2,
+       "img": "https://i.postimg.cc/sD5905C7/Kidney-bean.png",
+       "name": "Kidney bean",
+       "price": 96,
+       "category": "legume",
+       "rating": 3,
+       "others": "popular",
+       "des": "Kidney beans are a type of legume known for their kidney shape and rich protein content. They are commonly used in various dishes, including chili, soups, and salads."
+    },
+    {
+       "id": 3,
+       "img": "https://i.postimg.cc/pr6TshG7/Carrot.png",
+       "name": "Carrot",
+       "price": 39,
+       "category": "Vegetable",
+       "rating": 3,
+       "others": "popular",
+       "des": "Carrots are root vegetables known for their bright orange color and crunchy texture. They are a good source of vitamins and are often enjoyed raw, cooked, or juiced."
+    },
+    {
+       "id": 4,
+       "img": "https://i.postimg.cc/rpmmW9wT/cart1img.png",
+       "name": "Apple Fruit",
+       "price": 80,
+       "category": "Fruits",
+       "rating": 2,
+       "others": "famous",
+       "des": "Apples are one of the most popular fruits globally, known for their sweet and refreshing taste. They are a good source of fiber and essential nutrients, making them a healthy snack option."
+    },
+    {
+       "id": 5,
+       "img": "https://i.postimg.cc/FHcyJN1m/split-peas.png",
+       "name": "split peas",
+       "price": 99,
+       "category": "legume",
+       "rating": 5,
+       "others": "famous",
+       "des": "Split peas are dried and peeled seeds of peas, commonly used in soups and stews. They are rich in protein, fiber, and various vitamins, making them a nutritious addition to meals."
+     },
+     {
+       "id": 6,
+       "img": "https://i.postimg.cc/CLcpDpBZ/watermelon.png",
+       "name": "WaterMelon",
+       "price": 76,
+       "category": "Fruits",
+       "rating": 1,
+       "others": "popular",
+       "des": "Watermelon is a juicy and refreshing fruit enjoyed during hot summer days. It is high in water content and contains vitamins and antioxidants, making it a hydrating and healthy option."
+     },
+     {
+       "id": 7,
+       "img": "https://i.postimg.cc/hjLHtkRt/mango.png",
+       "name": "Mango Fruit",
+       "price": 110,
+       "category": "Fruits",
+       "rating": 5,
+       "others": "famous",
+       "des": "Mango is a tropical fruit loved for its sweet and luscious flavor. It is packed with vitamins, minerals, and dietary fiber, making it a delicious and nutritious choice for snacks and desserts."
+     },
+     {
+       "id": 8,
+       "img": "https://i.postimg.cc/Z5DG0P9X/mung-beans.png",
+       "name": "mung beans",
+       "price": 91,
+       "category": "legume",
+       "rating": 5,
+       "others": "famous",
+       "des": "Mung beans, also known as green gram, are small green legumes commonly used in Asian cuisines. They are rich in protein and easy to cook, making them a staple ingredient in various dishes."
+     },
+     {
+       "id": 9,
+       "img": "https://i.postimg.cc/prCSN7Vh/jujube-date-palm-dried-fruit-dates-4558cc27cf6a62ce381787947a35e7d1.png",
+       "name": "Jujube Date Palm",
+       "price": 200,
+       "category": "Dry Fruits",
+       "rating": 4,
+       "others": "latest",
+       "des": "Jujube Date Palm, commonly known as red dates or Chinese dates, is a sweet and nutritious dried fruit. It is a popular snack and often used in traditional herbal medicine for its health benefits."
+     },
+     {
+       "id": 10,
+       "img": "https://i.postimg.cc/pTRsqy3P/appricot.png",
+       "name": "Apricot Fruit",
+       "price": 190,
+       "category": "Fruits",
+       "rating": 1,
+       "others": "famous",
+       "des": "Apricot is a small, orange-colored fruit with a sweet and tangy taste. It is rich in vitamins A and C and provides various health benefits, including improved eye health and immune support."
+     },
+     {
+       "id": 11,
+       "img": "https://i.postimg.cc/SRNkFSYh/pianapple.png",
+       "name": "pianapple Fruit",
+       "price": 70,
+       "category": "Fruits",
+       "rating": 2,
+       "others": "famous",
+       "des": "Pineapple is a tropical fruit known for its sweet and tropical flavor. It is a good source of vitamin C and manganese and is commonly used in fruit salads, smoothies, and desserts."
+     },
+     {
+       "id": 12,
+       "img": "https://i.postimg.cc/hjRV0wzx/tomato.png",
+       "name": "Tomato",
+       "price": 24,
+       "category": "Vegetable",
+       "rating": 5,
+       "others": "famous",
+       "des": "Tomato is a versatile and widely used vegetable that is botanically a fruit. It is a rich source of lycopene, an antioxidant known for its health benefits, and is a key ingredient in many dishes worldwide."
+     },
+     {
+       "id": 13,
+       "img": "https://i.postimg.cc/0QVhSpjT/Gooseberry.png",
+       "name": "Gooseberry",
+       "price": 155,
+       "category": "Fruits",
+       "rating": 4,
+       "others": "popular",
+       "des": "Gooseberry, also known as amla or Indian gooseberry, is a small green fruit with a tangy and sour taste. It is a rich source of vitamin C and antioxidants and is used in various culinary and medicinal applications."
+     },
+     {
+       "id": 14,
+       "img": "https://i.postimg.cc/QdrBw5xG/Dal-Chickpea.png",
+       "name": "Dal Chickpea",
+       "price": 79,
+       "category": "legume",
+       "rating": 1,
+       "others": "trending",
+       "des": "Dal Chickpea, also known as Chana Dal, is a split and husked chickpea used in Indian cooking. It is a good source of plant-based protein and is often used in dal recipes, soups, and curries."
+     },
+     {
+       "id": 15,
+       "img": "https://i.postimg.cc/3wq38pZj/pngegg-20.png",
+       "name": "Persimmon",
+       "price": 498,
+       "category": "Fruits",
+       "rating": 5,
+       "others": "Foreign Fruits",
+       "des": "Persimmon is a sweet and flavorful fruit with a unique texture. It comes in two main varieties - Fuyu and Hachiya. Persimmons are a good source of vitamins A and C and provide a delightful addition to fruit salads and desserts."
+     },
+     {
+       "id": 16,
+       "img": "https://i.postimg.cc/Y25Bzzb7/Quince.png",
+       "name": "Quince Fruit",
+       "price": 103,
+       "category": "Fruits",
+       "rating": 4,
+       "others": "popular",
+       "des": "Quince is a fragrant fruit with a yellowish-gold color. It is often used for making jams, jellies, and other preserves due to its natural pectin content. Quince has a unique taste that becomes sweeter when cooked."
+     },
+     {
+       "id": 17,
+       "img": "https://i.postimg.cc/XJrtwr5X/Custard-Apple.png",
+       "name": "Custard Apple",
+       "price": 45,
+       "category": "Fruits",
+       "rating": 3,
+       "others": "trending",
+       "des": "Custard Apple, also known as Sitaphal or Sugar Apple, is a tropical fruit with a creamy and sweet pulp. It is rich in vitamins and minerals and is often eaten fresh or used to make milkshakes and desserts."
+     },
+     {
+       "id": 18,
+       "img": "https://i.postimg.cc/nhTWg4YC/Muskmelon.png",
+       "name": "Muskmelon",
+       "price": 49,
+       "category": "Fruits",
+       "rating": 2,
+       "others": "trending",
+       "des": "Muskmelon, also known as Cantaloupe, is a juicy and aromatic fruit with a sweet and refreshing taste. It is high in vitamins A and C and is a popular choice for fruit salads and smoothies."
+     },
+     {
+       "id": 19,
+       "img": "https://i.postimg.cc/NMXpsmT8/potato.png",
+       "name": "potato",
+       "price": 87,
+       "category": "vegetable",
+       "rating": 1,
+       "others": "trending",
+       "des": "Potato is a starchy tuber vegetable and is a staple food in many cuisines. It is a good source of carbohydrates and provides essential nutrients. Potatoes are used in various dishes, including mashed potatoes, fries, and curries."
+     },
+     {
+       "id": 20,
+       "img": "https://i.postimg.cc/fRbC36mR/Cabbage.png",
+       "name": "Cabbage",
+       "price": 90,
+       "category": "vegetable",
+       "rating": 2,
+       "others": "trending",
+       "des": "Cabbage is a leafy green vegetable with a mild and crunchy texture. It is a good source of fiber, vitamins, and minerals. Cabbage is often used in salads, stir-fries, and coleslaw."
+     },
+     {
+       "id": 21,
+       "img": "https://i.postimg.cc/NfKv1P1p/pomegranate.png",
+       "name": "pomegranate",
+       "price": 123,
+       "category": "Fruits",
+       "rating": 3,
+       "others": "popular",
+       "des": "Pomegranate is a vibrant red fruit with juicy arils (seeds) inside. It is rich in antioxidants and is known for its potential health benefits. Pomegranate seeds can be enjoyed on their own, in salads, or as a topping for various dishes."
+     },
+     {
+       "id": 22,
+       "img": "https://i.postimg.cc/rFsR5cn3/Cauliflower.png",
+       "name": "Cauliflower",
+       "price": 35,
+       "category": "Vegetable",
+       "rating": 4,
+       "others": "trending",
+       "des": "Cauliflower is a cruciferous vegetable that comes in white, purple, and green varieties. It is a versatile vegetable that can be roasted, steamed, or mashed. Cauliflower is low in calories and a good source of vitamins and minerals."
+     },
+     {
+       "id": 23,
+       "img": "https://i.postimg.cc/SK8PgBsf/grapes.png",
+       "name": "Grape Fruit",
+       "price": 65,
+       "category": "Fruits",
+       "rating": 4,
+       "others": "famous",
+       "des": "Grapes are small, sweet, and juicy fruits that grow in clusters. They come in various colors like green, red, and black. Grapes are not only delicious but also provide various health benefits, being rich in antioxidants and vitamins."
+     },
+     {
+       "id": 24,
+       "img": "https://i.postimg.cc/g2NYs6xK/Cucumber.png",
+       "name": "Cucumber",
+       "price": 77,
+       "category": "Vegetable",
+       "rating": 4,
+       "others": "famous",
+       "des": "Cucumber is a refreshing and hydrating vegetable with a mild taste. It is often used in salads, sandwiches, and as a garnish for various dishes. Cucumbers are low in calories and a good source of vitamins and minerals."
+     },
+     {
+       "id": 25,
+       "img": "https://i.postimg.cc/0NKNcdLq/stobbary.png",
+       "name": "Stoberry Fruit",
+       "price": 120,
+       "category": "Fruits",
+       "rating": 5,
+       "others": "popular",
+       "des": "Strawberry is a bright red, juicy fruit that is loved for its sweet and slightly tangy flavor. It is rich in vitamin C and antioxidants. Strawberries are commonly eaten fresh, used in desserts, or made into jams and preserves."
+     },
+     {
+       "id": 26,
+       "img": "https://i.postimg.cc/tCBfmdz7/navy-beans.png",
+       "name": "navy beans",
+       "price": 78,
+       "category": "legume",
+       "rating": 3,
+       "others": "trending",
+       "des": "Navy beans, also known as haricot beans, are small, creamy-white beans with a mild flavor. They are commonly used in soups, stews, and casseroles. Navy beans are a good source of protein and dietary fiber."
+     },
+     {
+       "id": 27,
+       "img": "https://i.postimg.cc/bJRLS8Cd/peanuts.png",
+       "name": "peanuts",
+       "price": 55,
+       "category": "legume",
+       "rating": 2,
+       "others": "popular",
+       "des": "Peanuts are a popular legume that grows underground. They are often consumed roasted, salted, or made into peanut butter. Peanuts are a good source of healthy fats, protein, and various vitamins and minerals."
+     },
+     {
+       "id": 28,
+       "img": "https://i.postimg.cc/qRQXMwq3/pinto-beans.png",
+       "name": "pinto beans",
+       "price": 74,
+       "category": "legume",
+       "rating": 4,
+       "others": "trending",
+       "des": "Pinto beans are small, speckled beans that become pink when cooked. They are commonly used in Mexican and Southwestern cuisine, especially in dishes like chili and burritos. Pinto beans are a good source of plant-based protein and fiber."
+     },
+     {
+       "id": 29,
+       "img": "https://i.postimg.cc/wx295G7m/kiwi.png",
+       "name": "Kiwi Fruit",
+       "price": 90,
+       "category": "Fruits",
+       "rating": 1,
+       "others": "famous",
+       "des": "Kiwi fruit is a small, green fruit with a sweet and tangy flavor. It is rich in vitamin C, vitamin K, and dietary fiber. Kiwi fruit is often eaten fresh or used as a topping for yogurt and fruit salads."
+     },
+     {
+       "id": 30,
+       "img": "https://i.postimg.cc/Z5rN5HD5/Dal-Bean.png",
+       "name": "Dal Bean",
+       "price": 88,
+       "category": "legume",
+       "rating": 4,
+       "others": "popular",
+       "des": "Dal Bean, also known as Urad Dal, is a popular Indian lentil that is used to make various dishes like dal makhani and dosa batter. It is a good source of protein and is highly valued for its nutritional benefits."
+     },
+     {
+       "id": 31,
+       "img": "https://i.postimg.cc/Kjdq7Q2H/Jackfruit.png",
+       "name": "Jackfruit",
+       "price": 56,
+       "category": "Fruits",
+       "rating": 3,
+       "others": "trending",
+       "des": "Jackfruit is a large tropical fruit with a spiky outer skin. It has a sweet taste and a meaty texture, making it a popular choice as a meat substitute in vegetarian and vegan dishes. Jackfruit is rich in vitamins and minerals."
+     },
+     {
+       "id": 32,
+       "img": "https://i.postimg.cc/nh1nPnTp/kidney-beans.png",
+       "name": "kidney beans",
+       "price": 69,
+       "category": "legume",
+       "rating": 4,
+       "others": "popular",
+       "des": "Kidney beans are large, red beans that are commonly used in chili, salads, and soups. They are a good source of protein, fiber, and various essential nutrients."
+     },
+     {
+       "id": 33,
+       "img": "https://i.postimg.cc/y8mPmJ7z/lemon.png",
+       "name": "lemon",
+       "price": 15,
+       "category": "Fruits",
+       "rating": 5,
+       "others": "popular",
+       "des": "Lemon is a bright yellow citrus fruit known for its sour and tangy flavor. It is a rich source of vitamin C and is used in cooking, baking, and beverages to add a refreshing taste."
+     },
+     {
+       "id": 34,
+       "img": "https://i.postimg.cc/Yj8XV0G3/mango.png",
+       "name": "mango",
+       "price": 45,
+       "category": "Fruits",
+       "rating": 5,
+       "others": "famous",
+       "des": "Mango is a juicy tropical fruit with a sweet and tropical flavor. It comes in various varieties and is enjoyed fresh, in smoothies, desserts, and as a topping for salads. Mangoes are rich in vitamins and minerals."
+     },
+     {
+       "id": 35,
+       "img": "https://i.postimg.cc/5NktpyV7/mung-beans.png",
+       "name": "mung beans",
+       "price": 82,
+       "category": "legume",
+       "rating": 3,
+       "others": "popular",
+       "des": "Mung beans, also known as green gram, are small green beans often used in Asian cuisine. They can be cooked or sprouted and are a good source of plant-based protein, fiber, and antioxidants."
+     },
+     {
+       "id": 36,
+       "img": "https://i.postimg.cc/NF1qK7dW/muskmelon.png",
+       "name": "muskmelon",
+       "price": 28,
+       "category": "Fruits",
+       "rating": 4,
+       "others": "trending",
+       "des": "Muskmelon, also known as cantaloupe, is a sweet and flavorful fruit with orange flesh. It is often eaten fresh or used in fruit salads and smoothies."
+     },
+     {
+       "id": 37,
+       "img": "https://i.postimg.cc/MGKgkHxJ/black-beans.png",
+       "name": "black beans",
+       "price": 72,
+       "category": "legume",
+       "rating": 4,
+       "others": "famous",
+       "des": "Black beans are small, black-colored beans commonly used in Latin American and Caribbean cuisine. They are a good source of protein, fiber, and various vitamins and minerals."
+     },
+     {
+       "id": 38,
+       "img": "https://i.postimg.cc/hvRdQ2w7/watermelon.png",
+       "name": "watermelon",
+       "price": 20,
+       "category": "Fruits",
+       "rating": 5,
+       "others": "popular",
+       "des": "Watermelon is a juicy and refreshing fruit that is perfect for hot summers. It has a high water content and is low in calories. Watermelon is often enjoyed fresh, in fruit salads, or as a hydrating beverage."
+     },
+     {
+       "id": 39,
+       "img": "https://i.postimg.cc/4N09ykQQ/soybeans.png",
+       "name": "soybeans",
+       "price": 90,
+       "category": "legume",
+       "rating": 3,
+       "others": "popular",
+       "des": "Soybeans are a type of legume that is a primary source of soy products like tofu, soy milk, and tempeh. They are rich in protein and are known for their health benefits."
+     },
+     {
+       "id": 40,
+       "img": "https://i.postimg.cc/PrLhf4fR/nuts.png",
+       "name": "assorted nuts",
+       "price": 130,
+       "category": "Snacks",
+       "rating": 4,
+       "others": "popular",
+       "des": "Assorted nuts refer to a mix of different nuts such as almonds, walnuts, cashews, and pistachios. They are a great source of healthy fats, protein, and essential nutrients. Assorted nuts are often enjoyed as a nutritious snack."
+     },
+     {
+       "id": 41,
+       "img": "https://i.postimg.cc/0jPvwttB/papaya.png",
+       "name": "papaya",
+       "price": 33,
+       "category": "Fruits",
+       "rating": 3,
+       "others": "trending",
+       "des": "Papaya is a tropical fruit with orange flesh and black seeds. It has a sweet taste with a hint of acidity. Papaya is enjoyed fresh, in smoothies, or as a topping for yogurt and desserts."
+     },
+     {
+       "id": 42,
+       "img": "https://i.postimg.cc/4ynr8GXC/chickpeas.png",
+       "name": "chickpeas",
+       "price": 65,
+       "category": "legume",
+       "rating": 5,
+       "others": "famous",
+       "des": "Chickpeas, also known as garbanzo beans, are versatile legumes used in various cuisines. They are the primary ingredient in hummus and are often used in salads and curries. Chickpeas are a good source of protein, fiber, and minerals."
+     },
+     {
+       "id": 43,
+       "img": "https://i.postimg.cc/wTq48pL1/pear.png",
+       "name": "pear",
+       "price": 27,
+       "category": "Fruits",
+       "rating": 4,
+       "others": "popular",
+       "des": "Pear is a sweet and juicy fruit that comes in various varieties. It is enjoyed fresh and can also be used in desserts and salads. Pears are a good source of dietary fiber and vitamins."
+     },
+     {
+       "id": 44,
+       "img": "https://i.postimg.cc/QMPkJKpH/Cherries.png",
+       "name": "Cherries",
+       "price": 55,
+       "category": "Fruits",
+       "rating": 5,
+       "others": "famous",
+       "des": "Cherries are small, round, and sweet fruits that come in different colors like red, black, and yellow. They are often eaten fresh, used in desserts, or made into jams and preserves."
+     },
+     {
+       "id": 45,
+       "img": "https://i.postimg.cc/GpRQHb3X/brinjal.png",
+       "name": "brinjal",
+       "price": 40,
+       "category": "Vegetable",
+       "rating": 3,
+       "others": "trending",
+       "des": "Brinjal, also known as eggplant or aubergine, is a popular vegetable used in various cuisines. It has a mild taste and can be grilled, roasted, or used in curries and stews."
+     },
+     {
+       "id": 46,
+       "img": "https://i.postimg.cc/tJ5m7T7r/dates.png",
+       "name": "dates",
+       "price": 34,
+       "category": "Fruits",
+       "rating": 4,
+       "others": "popular",
+       "des": "Dates are sweet and chewy fruits that come from the date palm tree. They are rich in natural sugars and are often eaten as a healthy snack. Dates can also be used in desserts and smoothies."
+     },
+     {
+       "id": 47,
+       "img": "https://i.postimg.cc/bvPbT6mB/beans.png",
+       "name": "beans",
+       "price": 39,
+       "category": "Vegetable",
+       "rating": 3,
+       "others": "trending",
+       "des": "Beans are a nutritious vegetable that comes in various types like green beans, string beans, and snap beans. They are rich in fiber, vitamins, and minerals and can be cooked in different ways."
+     },
+     {
+       "id": 48,
+       "img": "https://i.postimg.cc/5NcNwMk0/pistachios.png",
+       "name": "pistachios",
+       "price": 120,
+       "category": "Snacks",
+       "rating": 5,
+       "others": "famous",
+       "des": "Pistachios are delicious nuts that have a slightly sweet and nutty flavor. They are often enjoyed as a snack, used in desserts, or added to salads. Pistachios are a good source of healthy fats and protein."
+     },
+     {
+       "id": 49,
+       "img": "https://i.postimg.cc/sfxQTDdZ/oranges.png",
+       "name": "oranges",
+       "price": 22,
+       "category": "Fruits",
+       "rating": 5,
+       "others": "popular",
+       "des": "Oranges are juicy citrus fruits known for their high vitamin C content. They are enjoyed fresh, juiced, or used in desserts and savory dishes. Oranges are a popular fruit worldwide."
+     },
+     {
+       "id": 50,
+       "img": "https://i.postimg.cc/PJhrZzZ7/sweet-potatoes.png",
+       "name": "sweet potatoes",
+       "price": 36,
+       "category": "Vegetable",
+       "rating": 4,
+       "others": "popular",
+       "des": "Sweet potatoes are root vegetables that have a sweet taste. They can be baked, boiled, mashed, or fried, and are often used in savory and sweet dishes. Sweet potatoes are rich in fiber and vitamins."
+     },
+     {
+       "id": 51,
+       "img": "https://i.postimg.cc/VsHr4W3G/plum.png",
+       "name": "plum",
+       "price": 30,
+       "category": "Fruits",
+       "rating": 3,
+       "others": "trending",
+       "des": "Plums are sweet and tart fruits with smooth skin and a juicy interior. They come in various colors and are often eaten fresh or used in jams, sauces, and desserts."
+     },
+     {
+       "id": 52,
+       "img": "https://i.postimg.cc/mgVgd4Vq/apricots.png",
+       "name": "apricots",
+       "price": 50,
+       "category": "Fruits",
+       "rating": 4,
+       "others": "popular",
+       "des": "Apricots are small, golden-orange fruits with a sweet and slightly tart flavor. They are rich in vitamins and antioxidants. Apricots can be enjoyed fresh, dried, or used in jams and desserts."
+     },
+     {
+       "id": 53,
+       "img": "https://i.postimg.cc/3wB2QpHR/peas.png",
+       "name": "peas",
+       "price": 28,
+       "category": "Vegetable",
+       "rating": 4,
+       "others": "famous",
+       "des": "Peas are small, round vegetables that come in different varieties like green peas and snow peas. They are commonly used in various dishes, including soups, salads, and stir-fries."
+     },
+     {
+       "id": 54,
+       "img": "https://i.postimg.cc/2SkC2Nk4/beetroot.png",
+       "name": "beetroot",
+       "price": 25,
+       "category": "Vegetable",
+       "rating": 3,
+       "others": "trending",
+       "des": "Beetroot, also known as beets, is a root vegetable known for its vibrant red color. It has a sweet and earthy flavor and can be eaten raw, juiced, or cooked in various dishes."
+     },
+     {
+       "id": 55,
+       "img": "https://i.postimg.cc/c1S7xJK5/avocado.png",
+       "name": "avocado",
+       "price": 42,
+       "category": "Fruits",
+       "rating": 5,
+       "others": "popular",
+       "des": "Avocado is a creamy and nutritious fruit that is rich in healthy fats and vitamins."
+     },
+     {
+       "id": 56,
+       "img":"https://i.postimg.cc/c1S7xJK5/avocado.png",
+       "name": "avocado",
+       "price": 48,
+       "category": "Fruits",
+       "rating": 5,
+       "others": "popular",
+       "des": "Avocado is a creamy and nutritious fruit that is rich in healthy fats and vitamins. It is commonly used in salads, sandwiches, and guacamole. Avocado is a staple in many healthy diets."
+     },
+     {
+       "id": 57,
+       "img": "https://i.postimg.cc/vTq2XHjZ/bell-pepper.png",
+       "name": "bell pepper",
+       "price": 30,
+       "category": "Vegetable",
+       "rating": 4,
+       "others": "famous",
+       "des": "Bell peppers, also known as sweet peppers, come in various colors like red, green, and yellow. They have a crunchy texture and a mildly sweet flavor. Bell peppers are often used in salads, stir-fries, and as a raw snack."
+     },
+     {
+       "id": 58,
+       "img": "https://i.postimg.cc/FRS8jNcY/pomegranate.png",
+       "name": "pomegranate",
+       "price": 50,
+       "category": "Fruits",
+       "rating": 4,
+       "others": "trending",
+       "des": "Pomegranate is a vibrant red fruit with juicy arils (seeds) inside. It is rich in antioxidants and is known for its potential health benefits. Pomegranate seeds can be enjoyed on their own, in salads, or as a topping for various dishes."
+     },
+     {
+       "id": 59,
+       "img": "https://i.postimg.cc/KjNj4v2w/Black-Eyed-peas.png",
+       "name": "black-eyed peas",
+       "price": 62,
+       "category": "legume",
+       "rating": 3,
+       "others": "popular",
+       "des": "Black-eyed peas are small, creamy white beans with a black spot on one side. They are often used in Southern cuisine and are a key ingredient in dishes like Hoppin' John. Black-eyed peas are a good source of protein and fiber."
+     },
+     {
+       "id": 60,
+       "img": "https://i.postimg.cc/N04qNnVx/cashews.png",
+       "name": "cashews",
+       "price": 90,
+       "category": "Snacks",
+       "rating": 5,
+       "others": "famous",
+       "des": "Cashews are delicious nuts with a buttery and creamy taste. They are often enjoyed as a snack, used in stir-fries, or made into cashew butter. Cashews are a good source of healthy fats and minerals."
+     },
+     {
+       "id": 61,
+       "img": "https://i.postimg.cc/Gpt4P1r2/pineapple.png",
+       "name": "pineapple",
+       "price": 38,
+       "category": "Fruits",
+       "rating": 4,
+       "others": "popular",
+       "des": "Pineapple is a tropical fruit with a sweet and tangy flavor. It is enjoyed fresh, juiced, or used in various dishes like fruit salads, desserts, and grilled with savory dishes."
+     },
+     {
+       "id": 62,
+       "img": "https://i.postimg.cc/ZKDXGvH0/pumpkin.png",
+       "name": "pumpkin",
+       "price": 25,
+       "category": "Vegetable",
+       "rating": 4,
+       "others": "trending",
+       "des": "Pumpkin is a winter squash known for its sweet and nutty flavor. It is often used in soups, pies, and desserts. Pumpkin seeds can also be roasted and eaten as a snack."
+     },
+     {
+       "id": 63,
+       "img": "https://i.postimg.cc/vZ3FvZpM/garlic.png",
+       "name": "garlic",
+       "price": 8,
+       "category": "Vegetable",
+       "rating": 5,
+       "others": "popular",
+       "des": "Garlic is a pungent and flavorful vegetable that is widely used in cooking. It adds a unique taste to various dishes and is known for its potential health benefits. Garlic is often used in sauces, marinades, and as a seasoning."
+     },
+     {
+       "id": 64,
+       "img": "https://i.postimg.cc/ncryW4Y4/sunflower-seeds.png",
+       "name": "sunflower seeds",
+       "price": 18,
+       "category": "Snacks",
+       "rating": 4,
+       "others": "popular",
+       "des": "Sunflower seeds are small, edible seeds that come from the sunflower plant. They are often enjoyed as a snack, added to salads, or used in baking. Sunflower seeds are a good source of healthy fats and protein."
+     },
+     {
+       "id": 65,
+       "img": "https://i.postimg.cc/sgLP1vVB/cabbage.png",
+       "name": "cabbage",
+       "price": 20,
+       "category": "Vegetable",
+       "rating": 4,
+       "others": "famous",
+       "des": "Cabbage is a leafy green or purple vegetable with a dense and crunchy texture. It is often used in salads, coleslaw, stir-fries, and soups. Cabbage is low in calories and rich in nutrients."
+     },
+     {
+       "id": 66,
+       "img": "https://i.postimg.cc/k4RgmMqR/chia-seeds.png",
+       "name": "chia seeds",
+       "price": 28,
+       "category": "Snacks",
+       "rating": 4,
+       "others": "popular",
+       "des": "Chia seeds are small seeds that come from the Salvia hispanica plant. They are rich in omega-3 fatty acids, fiber, and antioxidants. Chia seeds are often added to smoothies, yogurt, and used in baking."
+     },
+     {
+       "id": 67,
+       "img": "https://i.postimg.cc/br8K1Pv7/broccoli.png",
+       "name": "broccoli",
+       "price": 22,
+       "category": "Vegetable",
+       "rating": 4,
+       "others": "famous",
+       "des": "Broccoli is a nutritious green vegetable that is rich in vitamins, minerals, and fiber. It has a unique appearance with a tree-like shape. Broccoli can be steamed, roasted, stir-fried, or enjoyed raw as a healthy snack."
+     },
+     {
+       "id": 68,
+       "img": "https://i.postimg.cc/j5RV6gqN/mixed-nuts.png",
+       "name": "mixed nuts",
+       "price": 45,
+       "category": "Snacks",
+       "rating": 4,
+       "others": "popular",
+       "des": "Mixed nuts are a delicious combination of different nuts like almonds, cashews, walnuts, and pistachios. They are often enjoyed as a nutritious and satisfying snack. Mixed nuts can also be used in baking and cooking."
+     },
+     {
+       "id": 69,
+       "img": "https://i.postimg.cc/y6vPtvsr/bell-pepper-yellow.png",
+       "name": "yellow bell pepper",
+       "price": 32,
+       "category": "Vegetable",
+       "rating": 3,
+       "others": "trending",
+       "des": "Yellow bell pepper is a vibrant and sweet-tasting vegetable that is rich in vitamin C and antioxidants. It adds a burst of color to dishes and can be used in salads, stir-fries, and stuffed with various fillings."
+     },
+     {
+       "id": 70,
+       "img": "https://i.postimg.cc/15YVcrN0/banana.png",
+       "name": "banana",
+       "price": 12,
+       "category": "Fruits",
+       "rating": 5,
+       "others": "popular",
+       "des": "Banana is a popular and nutritious fruit that comes in a natural yellow packaging. It is a great source of potassium and carbohydrates, making it a favorite among athletes. Bananas can be eaten as they are or used in smoothies, desserts, and baking."
+     }
+ ]
+ 
+ 
